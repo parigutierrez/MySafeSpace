@@ -1,0 +1,58 @@
+
+header{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  margin-bottom: 3em;
+  position: fixed;
+  top: 0;
+  
+
+}
+nav{
+  height: auto;
+  color: #fff;
+  width: 100%;
+  display: flex;
+  height: auto;
+  justify-content: center;
+  align-content: center;
+}
+article{
+  display: flex;
+}
+  nav article.enlaces{
+    width: 80%;
+    visibility: visible;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  nav article.enlaces p{
+    width: 20%;
+    text-align: center;
+    justify-content:center;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: row;
+  }
+  article.enlaces p a {
+    display: flex;
+    text-decoration: none;
+    flex-direction: row;
+    text-decoration: none;
+    font-style: normal;
+    font-family: helvetica;
+    font-size: large;
+    padding: 2em;
+  }
+  nav article.logo {
+    width:20%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+  }
+  nav article.logo img.loguito{
+    width: 50%;
+  }
