@@ -1,0 +1,63 @@
+.imgSophi{
+	width: 33%;
+	margin-top: 12em;
+
+}
+.imgSophi img{
+	width: 90%;
+}
+.glo1{
+	width: 80%;
+	margin-left: -15em;
+	margin-top: 4em;
+}
+.contGlo{
+	width: 12%;
+
+}
+.glo2{
+	width: 80%;
+	margin-top: 9em;
+	margin-left: -17em;
+}
+.glo3{
+	width: 80%;
+	margin-top: 16em;
+	margin-left: -22em;
+}
+.glo4{
+	width: 80%;
+	margin-top: 24em;
+	margin-left: -31em;
+}
+.glo5{
+	width: 80%;
+	margin-top: 33em;
+	margin-left: -45em;
+}
+.glo6{
+	width: 80%;
+	margin-top: 36em;
+	margin-left: -63em;
+}
+.textC{
+	display: flex;
+	flex-wrap: wrap;
+	width:35%;
+	height:100px;
+	margin-left: 36em;
+	margin-top: -37em;
+}
+.textC p{
+	width: 70%;
+	margin-left: 5em;
+}
+.acomodo {
+	width: 24%;
+	height: 200px;
+	margin-left: 27em;
+	margin-top: -27em;
+}
+.hidden{
+	display: none;
+}
