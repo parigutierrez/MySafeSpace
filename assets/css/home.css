@@ -11,25 +11,23 @@
   padding: 10em;
   background-color : aliceblue;
   background-image: url("../imagenes/WAA.jpg");
-  background-position: center;
   background-repeat: repeat-x;
   background-size: cover;
   filter: grayscale(80%);
   filter: contrast(50%);
 }
-  div.titulo{
+  article.titulo{
     display: flex;
     flex-direction: row;
     justify-content: center;
     text-align: center;
   }
-  div.titulo h1{
+  article.titulo h1{
     text-align: center;
     font-size: 2em;
     font-family: sans-serif;
-    font-weight: BOLD;
-    color: #000;
-    z-index: 2;
+    font-weight: ;
+    color: black;
   }
   div.slogan p{
     text-align:center;

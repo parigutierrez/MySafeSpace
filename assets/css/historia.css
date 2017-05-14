@@ -1,0 +1,34 @@
+#historia{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+  font-family: sans-serif;
+  flex-direction: column;
+  width: 100%;
+  height: auto;
+  padding: 3em;
+}
+#historia h2{
+  padding: 1em;
+}
+
+
+section.personaje{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+
+
+}
+
+  article.personaje img.personajeHistoria{
+    width: 40%;
+  }
+    section.historia{
+      display: flex;
+      flex-direction: row;
+      align-content: center;
+      justify-content: center;
+    }
