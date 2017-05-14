@@ -3,8 +3,6 @@ header{
   display: flex;
   justify-content: center;
   align-content: center;
-  margin-bottom: 3em;
-
 }
 nav{
   height: auto;
@@ -54,3 +52,17 @@ article{
   nav article.logo img.loguito{
     width: 50%;
   }
+
+    article.titulo{
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      text-align: center;
+    }
+    article.titulo h1{
+      text-align: center;
+      font-size: 2em;
+      font-family: sans-serif;
+      font-weight: ;
+      color: black;
+    }
